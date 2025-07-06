@@ -39,7 +39,7 @@ streamlit run app.py
 ## 📂 File Structure
 
 ```
-📁 image-background-remover
+📁 BgRemoveApp--Streamlit/
  ┣ 📄 app.py               # Main Streamlit app file
  ┗ 📄 README.md            # This file
 ```
